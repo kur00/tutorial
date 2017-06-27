@@ -2,5 +2,6 @@ Hello, Masa!
 変更を加えました。
 変更を加えたい
 
+クローズしてごらん、これを
 
 saranaru commit
